@@ -25,8 +25,8 @@ CREATE TABLE registrations (
 );
 
 INSERT INTO students (name, email, password) VALUES
-('Alice Smith', 'alice@example.com', 'password123'),
-('Bob Johnson', 'bob@example.com', 'password456');
+('Sumith', 'sumith@gmail.com', 'password123'),
+('Anusha', 'anusha@gmail.com', 'password456');
 
 INSERT INTO courses (name, instructor, credits) VALUES
 ('Computer Science', 'Dr. Brown', 3),
