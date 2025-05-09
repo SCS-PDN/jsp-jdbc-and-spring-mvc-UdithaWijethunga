@@ -1,0 +1,4 @@
+<mvc:interceptors>
+    <bean class="com.example.LoggingInterceptor"/>
+</mvc:interceptors>
+s
